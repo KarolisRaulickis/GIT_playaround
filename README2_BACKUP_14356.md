@@ -1,10 +1,8 @@
+<<<<<<< HEAD:README2.md
 # GIT_playaround
 
 nooo
-
-============================================me====
-
-
+=======
 develop
 qwe
 
@@ -15,3 +13,4 @@ nooo
 
 
 develop
+>>>>>>> develop:README.md
